@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d71ec41d1eaf5418155dfd4ddc968b, type: 3}
+  m_Name: SqlSelect
+  m_EditorClassIdentifier: 
+  gameTemplate: {fileID: 11400000, guid: 53c0f4872d088ee4da9b18c42f2988f5, type: 2}
+  _selectedUser: {fileID: 11400000, guid: 319757d5297548741a948121bf3ebb3c, type: 2}

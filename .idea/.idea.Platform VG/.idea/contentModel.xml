@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\togue\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\togue\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Platform VG.1495527880.00" t="ExcludeRecursive" />
+    <e p="C:\Users\togue\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="G:\proyectosUnity\Platform VG" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GameOverFall.cs" t="Include" />
+        <e p="PlayerInputs" t="Include">
+          <e p="Platform VG.cs" t="Include" />
+        </e>
+        <e p="PlayerPrefsEditor" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Dialogs" t="Include">
+              <e p="TextFieldDialog.cs" t="Include" />
+              <e p="TextValidator.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="CenterOnWindow.cs" t="Include" />
+            </e>
+            <e p="PreferencesEditor" t="Include">
+              <e p="PreferenceEntry.cs" t="Include" />
+              <e p="PreferenceEntryHolder.cs" t="Include" />
+              <e p="PreferencesEditorWindow.cs" t="Include" />
+              <e p="PreferenceStorageAccessor.cs" t="Include" />
+              <e p="RegistryMonitor.cs" t="Include" />
+            </e>
+            <e p="Styles.cs" t="Include" />
+            <e p="Unity.PlayerPrefsEditor.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Editor Resources" t="Include">
+            <e p="ImageManager.cs" t="Include" />
+            <e p="Unity.PlayerPrefsEditor.EditorResources.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="Mundos" t="Include">
+            <e p="Behaviors" t="Include">
+              <e p="DamageBehaviour.cs" t="Include" />
+              <e p="DamageBehaviourEnemy.cs" t="Include" />
+              <e p="DamageBehaviourPlayer.cs" t="Include" />
+              <e p="MoveBehaviour.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Audio" t="Include">
+            <e p="AudioData.cs" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+            <e p="AudioManagerAntiguo.cs" t="Include" />
+            <e p="SettingsMenu.cs" t="Include" />
+            <e p="Sound.cs" t="Include" />
+          </e>
+          <e p="Camera" t="Include">
+            <e p="CamaraFollow.cs" t="Include" />
+            <e p="CamShake.cs" t="Include" />
+            <e p="Parallax.cs" t="Include" />
+          </e>
+          <e p="Canvas" t="Include">
+            <e p="CanvasManager.cs" t="Include" />
+            <e p="CoinsUpdater.cs" t="Include" />
+            <e p="LevelLoader.cs" t="Include" />
+            <e p="TestCoin.cs" t="Include" />
+          </e>
+          <e p="Cinemachine" t="Include">
+            <e p="CinemachineSwitch.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="CommmandManager.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+          </e>
+          <e p="Doors" t="Include">
+            <e p="DoorButton.cs" t="Include" />
+            <e p="DoorState.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="BossDMG.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="EnemyLifeSystem.cs" t="Include" />
+            <e p="EnemyOlaf.cs" t="Include" />
+            <e p="EnemyRand.cs" t="Include" />
+            <e p="Illumination" t="Include">
+              <e p="HitIllum.cs" t="Include" />
+            </e>
+            <e p="StandarEnemy.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IDamageable.cs" t="Include" />
+            <e p="IDamageable2.cs" t="Include" />
+            <e p="IDMG.cs" t="Include" />
+          </e>
+          <e p="Levels" t="Include">
+            <e p="ChangeScene.cs" t="Include" />
+            <e p="LevelSelection.cs" t="Include" />
+            <e p="nextSceneLoad.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="AquaMarineManager.cs" t="Include" />
+            <e p="CurrencyChecker.cs" t="Include" />
+            <e p="GridManager.cs" t="Include" />
+            <e p="ShopManager.cs" t="Include" />
+          </e>
+          <e p="Others" t="Include">
+            <e p="FirstOpen.cs" t="Include" />
+            <e p="modifyUserTest.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
+          <e p="Platforms" t="Include">
+            <e p="Boosts.cs" t="Include" />
+            <e p="ChangingPlatform" t="Include">
+              <e p="ChangingPlatform.cs" t="Include" />
+              <e p="ChangingPlatformAnim.cs" t="Include" />
+            </e>
+            <e p="GameEvents.cs" t="Include" />
+            <e p="Gravity.cs" t="Include" />
+            <e p="JumpBoost.cs" t="Include" />
+            <e p="PlatformFalling" t="Include">
+              <e p="PlatformTemp.cs" t="Include" />
+              <e p="PlatformTempAnim.cs" t="Include" />
+            </e>
+            <e p="PlatformFalling.cs" t="Include" />
+            <e p="SpeedBoost.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="betterJump.cs" t="Include" />
+            <e p="BOSS" t="Include">
+              <e p="bossBetterJump.cs" t="Include" />
+              <e p="bossMovement.cs" t="Include" />
+            </e>
+            <e p="collisionsNoPhysics.cs" t="Include" />
+            <e p="GroundChecker.cs" t="Include" />
+            <e p="InputManager.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerDmgIllu.cs" t="Include" />
+            <e p="PlayerFrozen.cs" t="Include" />
+            <e p="playerLifeSystem.cs" t="Include" />
+            <e p="playerMovement.cs" t="Include" />
+            <e p="PlayerSkin.cs" t="Include" />
+            <e p="PlayerSlowed.cs" t="Include" />
+            <e p="PlayerStunned.cs" t="Include" />
+            <e p="PrincessMovement.cs" t="Include" />
+            <e p="SkinManagment.cs" t="Include" />
+          </e>
+          <e p="PowerUps" t="Include">
+            <e p="GravityModifier.cs" t="Include" />
+            <e p="IPowerUp.cs" t="Include" />
+            <e p="JumpModifier.cs" t="Include" />
+            <e p="PowerUpBehaviour.cs" t="Include" />
+            <e p="PowerUpController.cs" t="Include" />
+            <e p="PUThrow.cs" t="Include" />
+            <e p="SpeedChange.cs" t="Include" />
+          </e>
+          <e p="PruebasMovimiento" t="Include">
+            <e p="Info.cs" t="Include" />
+            <e p="JumpSys.cs" t="Include" />
+            <e p="MoveSys.cs" t="Include" />
+            <e p="MoveSys1.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="AquaSave.cs" t="Include" />
+            <e p="BBDD" t="Include">
+              <e p="BBDD.cs" t="Include" />
+              <e p="BBDDSelect.cs" t="Include" />
+              <e p="CurrencySerialize.cs" t="Include" />
+              <e p="hardCurrencyBBDD.cs" t="Include" />
+              <e p="Sql" t="Include">
+                <e p="DataSql.cs" t="Include" />
+                <e p="PrintAndReadSql.cs" t="Include" />
+                <e p="SqlCreate.cs" t="Include" />
+                <e p="SqlHardCurrency.cs" t="Include" />
+                <e p="SqlSelect.cs" t="Include" />
+              </e>
+              <e p="XML" t="Include">
+                <e p="CreacionXML.cs" t="Include" />
+                <e p="DataXML.cs" t="Include" />
+                <e p="XmlHardCurrency.cs" t="Include" />
+                <e p="XmlSelect.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="GameEventEditor.cs" t="Include" />
+            </e>
+            <e p="GameEvent.cs" t="Include" />
+            <e p="GameEventListener.cs" t="Include" />
+            <e p="gameTemplate.cs" t="Include" />
+            <e p="IGameEventListener.cs" t="Include" />
+            <e p="IntVariable.cs" t="Include" />
+            <e p="PlayerSkinActual.cs" t="Include" />
+            <e p="SelectedUser.cs" t="Include" />
+            <e p="softCurrency.cs" t="Include" />
+            <e p="userList.cs" t="Include" />
+            <e p="usersScript.cs" t="Include" />
+          </e>
+          <e p="Shop" t="Include">
+            <e p="Coins.cs" t="Include" />
+            <e p="PlayerSkins.cs" t="Include" />
+            <e p="ShopItems.cs" t="Include" />
+          </e>
+          <e p="User" t="Include">
+            <e p="deleteUser.cs" t="Include" />
+            <e p="keyAdd.cs" t="Include" />
+            <e p="keyUnlocker.cs" t="Include" />
+            <e p="modifyUser.cs" t="Include" />
+            <e p="modifyworlds.cs" t="Include" />
+            <e p="userAdd.cs" t="Include" />
+          </e>
+          <e p="UserScene" t="Include">
+            <e p="PrintCoinsCaller.cs" t="Include" />
+            <e p="PrintUserGeneral.cs" t="Include" />
+            <e p="UserPrint.cs" t="Include" />
+            <e p="UserPrintAndReadXml.cs" t="Include" />
+            <e p="UserSelection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SendToAudioManager.cs" t="Include" />
+        <e p="SoundToggle.cs" t="Include" />
+        <e p="StartChase.cs" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="DropdownSample.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Platform VG.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unity.PlayerPrefsEditor.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.PlayerPrefsEditor.EditorResources.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <User name="Toguer">
+    <coins>0</coins>
+    <World name="Pradera">
+      <Level number="1">
+        <Key number="1">true</Key>
+        <Key number="2">true</Key>
+        <Key number="3">true</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">true</Key>
+        <Key number="2">true</Key>
+        <Key number="3">true</Key>
+      </Level>
+    </World>
+    <World name="Hielo">
+      <Level number="1">
+        <Key number="1">true</Key>
+        <Key number="2">true</Key>
+        <Key number="3">false</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+    </World>
+    <World name="Lava">
+      <Level number="1">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+    </World>
+  </User>
+  <User name="Zoe">
+    <coins>0</coins>
+    <World name="Pradera">
+      <Level number="1">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+    </World>
+    <World name="Hielo">
+      <Level number="1">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+    </World>
+    <World name="Lava">
+      <Level number="1">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+      <Level number="2">
+        <Key number="1">false</Key>
+        <Key number="2">false</Key>
+        <Key number="3">false</Key>
+      </Level>
+    </World>
+  </User>
+</root>

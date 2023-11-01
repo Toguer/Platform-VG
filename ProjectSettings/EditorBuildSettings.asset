@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 02856ee1c572f894b9f5355f11aba24f
+  - enabled: 1
+    path: Assets/Scenes/Menus/SelectUserAlex.unity
+    guid: 40761cf1594b63d42b601a20324eca0e
+  - enabled: 0
+    path: Assets/Scenes/Menus/SelectUser.unity
+    guid: be80741283a5b9944ba6e25626a6b4b4
+  - enabled: 1
+    path: Assets/Scenes/Menus/SelectWorld.unity
+    guid: 946e819c199f8ce4792cde87f1c9b084
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo1/M1S1.unity
+    guid: 546d25f5a72ede845920d72b59fbb1ab
+  - enabled: 0
+    path: Assets/Scenes/Mundos/Mundo1/M1S6.unity
+    guid: f2ff733d7cb861a46b2222c4f2ad235b
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo1/M1S6.unity
+    guid: f2ff733d7cb861a46b2222c4f2ad235b
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo2/M2S1.unity
+    guid: c4aa5e02fe4f4df47a646252421fefc4
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo2/M2S2.unity
+    guid: cf9a8a1f8fce92043be7ab193e7d37c2
+  - enabled: 1
+    path: Assets/Scripts/Commands/Pruebas/M1S3.unity
+    guid: be6f215a41d1b054a9a72ba731fec8cd
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo3/M3S1.unity
+    guid: c4425366ef01828498309413584569ca
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo2/M2S1.unity
+    guid: c4aa5e02fe4f4df47a646252421fefc4
+  - enabled: 1
+    path: Assets/Scenes/Mundos/Mundo2/M2S2.unity
+    guid: cf9a8a1f8fce92043be7ab193e7d37c2
+  m_configObjects:
+    addressableimportsettings: {fileID: 11400000, guid: a8bd956221eeb484ca2c27d553f109b0,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 80eab2c49c12c0b4abbfb20df4222a22,
+      type: 2}
